@@ -1,0 +1,4 @@
+JARVIS System Monitor
+Status: Online
+Operating System: win32
+NodeJs Version: v24.21.0
