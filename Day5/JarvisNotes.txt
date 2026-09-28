@@ -1,0 +1,5 @@
+Learn NodeJs and build my Own AI assistant.
+Learn asynchronous NodeJs programming.
+Today I learned NodeJs callbacks.
+Today I learned async and await.
+Today I started Learning Promises.
