@@ -1,0 +1,4 @@
+Learn NodeJS file management.
+Today I am learning the fs module.
+Today I learned how to manage files using NodeJs.
+Today I learned NodeJs file management.Today I learned how to create reusable file function.

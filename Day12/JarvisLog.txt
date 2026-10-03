@@ -1,0 +1,2 @@
+Jarvis is learning file management.
+Today I learned fs.writeFileSync().
