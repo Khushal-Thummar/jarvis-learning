@@ -1,7 +1,8 @@
+require("dotenv").config();
 const express = require("express");
 
 const app = express();
-const PORT=3000;
+const PORT=process.env.PORT || 3000;
 
 //Request logging middleware
 app.use((req,res,next)=>{
@@ -27,5 +28,5 @@ app.use((err,req,res,next)=>{
 });
 
 app.listen(PORT,()=>{
-    console.log(`Server running at http://localhost:${PORT}`);
+    console.log(`${process.env.APP_NAME} server running at http://localhost:${PORT}`);
 });
